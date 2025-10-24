@@ -1,0 +1,32 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserdatad
+*.xcuserdata/
+*.xcworkspace
+xcuserdata/
+*.moved-aside
+*.pbxuser
+!default.mode1v3
+!default.pbxuser
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/preview.html
+fastlane/screenshots
+
+# User-specific
+*.swp
+.DS_Store
+.env
+
